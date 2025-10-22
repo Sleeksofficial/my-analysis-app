@@ -5,3 +5,4 @@ pandas
 openpyxl
 gunicorn
 excel_exporter
+dash-auth
